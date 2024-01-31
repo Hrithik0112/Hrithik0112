@@ -1,3 +1,6 @@
+
+![mario gif](https://github.com/Hrithik0112/Hrithik0112/assets/122002784/41a9e7af-0a06-4621-80e0-f1270be5517d)
+
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
