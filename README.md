@@ -1,12 +1,11 @@
 
-![mario gif](https://github.com/Hrithik0112/Hrithik0112/assets/122002784/41a9e7af-0a06-4621-80e0-f1270be5517d)
+
+<image src="https://github.com/Hrithik0112/Hrithik0112/assets/122002784/41a9e7af-0a06-4621-80e0-f1270be5517d" width="500" height="300" />
 
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik0112&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik0112" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrithik0112" alt="hrithik0112" /></a> </p>
 
 - 🔭 I’m currently working on [Share-It](https://github.com/Hrithik0112/Share-It)
 
