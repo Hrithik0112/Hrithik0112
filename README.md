@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik0112&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik0112" /> </p>
 
-- 🔭 I’m currently working on [Share-It](https://github.com/Hrithik0112/Share-It)
+- 🔭 I’m currently working on [Markdown-Blog](https://github.com/Hrithik0112/Markdown-blog)
 
 - 🌱 I’m currently learning **Typescript , AWS, Devops**
 
