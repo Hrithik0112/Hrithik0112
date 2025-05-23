@@ -3,27 +3,23 @@
 <image src="https://github.com/Hrithik0112/Hrithik0112/assets/122002784/41a9e7af-0a06-4621-80e0-f1270be5517d" width="1200" height="400" />
 
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I turn coffee into pixels and bugs into features</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik0112&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik0112" /> </p>
 
-- 🔭 I’m currently working on [Markdown-Blog](https://github.com/Hrithik0112/Markdown-blog)
+- 🔭 I’m currently working on [Snap Civic](https://github.com/Hrithik0112/Snap-Civic)
 
-- 🌱 I’m currently learning **Typescript , AWS, Devops**
+- 🌱 I’m currently learning **AI and Machine Learning , AWS, Devops**
 
-- 👯 I’m looking to collaborate on [JS Mini Projects](https://github.com/Hrithik0112/JS_Mini_Projects)
+- 👯 I’m looking to collaborate on [Snap Civic](https://github.com/Hrithik0112/Snap-Civic)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hrithik0112/Hrithik-Devfolio](https://github.com/Hrithik0112/Hrithik-Devfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.hrithikdutta.me/)
 
-- 📝 I regularly write articles on [Haven't Started Yet](Haven't Started Yet)
-
-- 💬 Ask me about **React , JavaScript**
+- 💬 Ask me about **React , React native, NextJs, JavaScript**
 
 - 📫 How to reach me **hrithiknotforyou@gmail.com**
 
-- 📄 Know about my experiences [On it's way](On it's way)
-
-- ⚡ Fun fact **I React Easily**
+- ⚡ Fun fact **I Know How To center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
